@@ -12,8 +12,8 @@ const fontSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Care Pulse",
-  description: "A healthcare management system",
+  title: "CarePulse",
+  description: "A patient management system",
 };
 
 export default function RootLayout({
